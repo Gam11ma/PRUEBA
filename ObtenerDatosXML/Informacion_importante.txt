@@ -1,0 +1,7 @@
+
+-EN el archivo .php esta el programa que obtiene los atributos requeridos del documento XML
+
+.- Es importante modificar en la linea de codigo siguiente la ruta especifica de donde se encuentra el archivo XML
+de lo contrario no correra el programa
+
+$archivoXML = simplexml_load_file('ruta de archivo/nombre de archivo.xml'); <------Importante modificar la ruta del XML

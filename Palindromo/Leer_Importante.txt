@@ -1,0 +1,5 @@
+
+-El programa que verifica si una palabra es un palindromo 
+
+-Se ejecuta utilizando host, se corrio en localhost con xampp para poder ingresar datos y comprobar
+que sea un palindromo utilizando etiquetas HTML.

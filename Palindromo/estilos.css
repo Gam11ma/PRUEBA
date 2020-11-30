@@ -1,0 +1,23 @@
+html {
+  background-color: #566573 ;
+}
+
+body {
+  width: 700px;
+  margin: 50px auto;
+  background-color: #FDEBD0;
+  padding: 20px 50px 50px 20px;
+  border: 2px solid black;
+}
+
+h1 {
+  margin: 0;
+  padding: 20px 0;
+  color: #34495E ;
+}
+
+h3 {
+  margin: 0;
+  padding: 20px 0;
+  color: #00539F;
+}
